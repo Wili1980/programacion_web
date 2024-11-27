@@ -2,5 +2,5 @@ rodamientos
 bulones
 herramientas
 lubricantes
-electrodomésticos
-artículos varios
+maquinaria
+cables
