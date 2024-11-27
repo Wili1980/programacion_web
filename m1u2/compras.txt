@@ -1,0 +1,6 @@
+rodamientos
+bulones
+herramientas
+lubricantes
+electrodomésticos
+artículos varios
