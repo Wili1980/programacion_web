@@ -1,0 +1,49 @@
+h1 {
+    color: blue;
+    font-family: Arial;
+    background-color: rgb(121, 161, 161);
+    text-align: center;
+}
+
+h2 {
+    color: brown;
+    font-size: 35px;
+}
+
+p {
+    color: black;
+    font-style: italic;
+}
+
+h3 {
+    color: blueviolet;
+}
+
+ul {
+    color: black;
+    font-family: arial;
+}
+
+.practica {
+    font-size: 20px;
+}
+
+#rojo {
+    background-color: red;
+    width: 200px;
+    height: 150px;
+    padding: 20px;
+    border: 5px solid black;
+    box-sizing: border-box;
+    margin-left: 200px;
+}
+
+#azul {
+    background-color: blue;
+    width: 200px;
+    height: 150px;
+    padding: 10px;
+    border: 10px solid orange;
+    box-sizing: border-box;
+    margin-left: 300px;
+}
